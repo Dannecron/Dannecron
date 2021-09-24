@@ -9,6 +9,15 @@
 - [httpie](https://github.com/httpie/httpie) (`curl` alternative)
 - [fzf](https://github.com/junegunn/fzf) (file tree with preview and some cool features)
 
+#### ZSH
+
+- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [zplug](https://github.com/zplug/zplug)
+
+##### ZPLUG
+
+- [fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs)
+
 ## PHP
 
 - [function pipes](https://github.com/phpfn/pipe)
