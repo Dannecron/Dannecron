@@ -4,10 +4,10 @@
 
 ### CLI
 
-- [exa](https://github.com/ogham/exa) (`ls` alternative)
-- [bat](https://github.com/sharkdp/bat) (`cat` alternative)
-- [httpie](https://github.com/httpie/httpie) (`curl` alternative)
-- [fzf](https://github.com/junegunn/fzf) (file tree with preview and some cool features)
+- [exa](https://github.com/ogham/exa) - `ls` alternative
+- [bat](https://github.com/sharkdp/bat) - `cat` alternative
+- [httpie](https://github.com/httpie/httpie) - `curl` alternative
+- [fzf](https://github.com/junegunn/fzf) - file tree with preview and some cool features
 
 #### ZSH
 
@@ -17,6 +17,12 @@
 ##### ZPLUG
 
 - [fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs)
+
+#### Spotify
+
+- [spicetify](https://github.com/khanhas/spicetify-cli) - cli configuration for spotify client
+- [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - community themes for spicetify
+- [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) - config for disable poscasts ads
 
 ## PHP
 
