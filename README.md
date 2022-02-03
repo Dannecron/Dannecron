@@ -13,5 +13,3 @@ Fun ~~no~~ facts:
 
 
 [![Dannecron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannecron&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dannecron's recent Spotify tracks](https://spotify-recently-played-readme.vercel.app/api?user=dannecron&width=600)](https://github.com/JeffreyCA/spotify-recently-played-readme)
