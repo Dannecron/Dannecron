@@ -12,4 +12,4 @@ Fun ~~no~~ facts:
 - 🎧 I am listeninig [a lot of music](https://www.last.fm/ru/user/DanNecron).
 
 
-[![Dannecron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannecron&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dannecron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannecron&hide=contribs,prs,issues&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
