@@ -7,5 +7,5 @@
 
 ## Install
 
-Copy contents of this dir to `~/.config/nvim/custom`.
+Copy contents of this dir to `~/.config/nvim/lua/custom`.
 
