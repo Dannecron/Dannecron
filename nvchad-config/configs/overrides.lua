@@ -3,6 +3,7 @@ local M = {}
 M.treesitter = {
   ensure_installed = {
     "vim",
+    "vimdoc",
     "lua",
     "html",
     "css",
@@ -10,6 +11,7 @@ M.treesitter = {
     "typescript",
     "tsx",
     "c",
+    "cmake",
     "markdown",
     "markdown_inline",
   },
