@@ -2,7 +2,7 @@
 
 Before: I'm really sorry for my bad english.
 
-My name is Denis and I am a backend developer in web. My primary programming language is `php`. But I'm also interested in `golang` and `c#`. Also somehow know a litte about fronend thigs: `react`, `redux`, `vuejs`. I like, when all around me is dokerized, that's why I do a lot things with docker (but mostly of this are kind a stupid things).
+My name is Denis and I am a backend developer in web. My primary programming language is `php`. But I'm also interested in `kotlin` and `golang`. Also somehow know a litte about fronend thigs: `react`, `redux`, `vuejs`. I like, when all around me is dokerized, that's why I do a lot things with docker (but mostly of this are kind a stupid things).
 
 Once a year I write something not useful in [my blog](https://dannecron.github.io).
 
