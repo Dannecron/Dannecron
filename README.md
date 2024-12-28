@@ -7,7 +7,7 @@ My name is Denis and I am a backend developer in web. My primary programming lan
 Once a year I write something not useful in [my blog](https://dannecron.github.io).
 
 Fun ~~no~~ facts:
-- 🎮 I am a gamer playing on [pc](https://steamcommunity.com/id/dannc) and [ps](https://my.playstation.com/profile/DanNecron).
+- 🎮 I am a gamer playing on [pc](https://steamcommunity.com/id/dannc) and [ps](https://psnprofiles.com/DanNecron).
 - 🍥 I am an [anime fan](https://myanimelist.net/profile/DanNC).
 - 🎧 I am listeninig [a lot of music](https://www.last.fm/ru/user/DanNecron).
 
