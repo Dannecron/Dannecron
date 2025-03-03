@@ -1,21 +1,19 @@
+-- This file needs to have same structure as nvconfig.lua 
+-- https://github.com/NvChad/ui/blob/v3.0/lua/nvconfig.lua
+-- Please read that file to know all available options :( 
+
 ---@type ChadrcConfig
 local M = {}
 
--- Path to overriding theme and highlights files
-local highlights = require "custom.highlights"
+local highlights = require "configs.highlights"
 
-M.ui = {
-  theme = "one_light",
+M.base46 = {
+  theme = "doomchad",
   theme_toggle = { "one_light", "doomchad" },
   transparency = true,
 
-  hl_override = highlights.override,
   hl_add = highlights.add,
+  hl_override = highlights.override,
 }
-
-M.plugins = "custom.plugins"
-
--- check core.mappings for table structure
-M.mappings = require "custom.mappings"
 
 return M

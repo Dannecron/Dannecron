@@ -1,13 +1,13 @@
-local on_attach = require("plugins.configs.lspconfig").on_attach
-local capabilities = require("plugins.configs.lspconfig").capabilities
+-- load defaults i.e lua_lsp
+require("nvchad.configs.lspconfig").defaults()
+
 local lspconfig = require "lspconfig"
 
--- if you just want default config for the servers then put them in a table
 local servers = {
   -- front-end
   "html",
   "cssls",
-  "tsserver",
+  "ts_ls",
   -- back-end
   "gopls",
   -- static files
@@ -17,11 +17,14 @@ local servers = {
   "dockerls",
   "docker_compose_language_service",
 }
+local nvlsp = require "nvchad.configs.lspconfig"
 
+-- lsps with default config
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
-    on_attach = on_attach,
-    capabilities = capabilities,
+    on_attach = nvlsp.on_attach,
+    on_init = nvlsp.on_init,
+    capabilities = nvlsp.capabilities,
   }
 end
 
@@ -29,5 +32,9 @@ lspconfig.intelephense.setup{
   filetypes = { 'php', 'ctp' }
 }
 
--- lspconfig.pyright.setup { blabla}
-
+-- configuring single server, example: typescript
+-- lspconfig.ts_ls.setup {
+--   on_attach = nvlsp.on_attach,
+--   on_init = nvlsp.on_init,
+--   capabilities = nvlsp.capabilities,
+-- }
