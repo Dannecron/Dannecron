@@ -4,19 +4,7 @@
 
 ### CLI
 
-- [exa](https://github.com/ogham/exa) - `ls` alternative
-- [bat](https://github.com/sharkdp/bat) - `cat` alternative
-- [httpie](https://github.com/httpie/httpie) - `curl` alternative
-- [fzf](https://github.com/junegunn/fzf) - file tree with preview and some cool features
-
-#### ZSH
-
-- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
-- [zplug](https://github.com/zplug/zplug)
-
-##### ZPLUG
-
-- [fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs)
+[my list](https://github.com/stars/Dannecron/lists/keyboard-terminal)
 
 #### Spotify
 
@@ -88,6 +76,5 @@
 ### Test assignments
 
 - [hexlet list](https://github.com/Hexlet/ru-test-assignments)
-- [robofinance test assignments](https://github.com/RoboFinance/test-assignments)
 - [evercode lab](https://github.com/EvercodeLab/php-test-assignment)
 - [tutu ru](https://github.com/tutu-ru/php-interview)
