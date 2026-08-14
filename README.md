@@ -9,7 +9,4 @@ Once a year I write something not useful in [my blog](https://dannecron.github.i
 Fun ~~no~~ facts:
 - 🎮 I am a gamer playing on [pc](https://steamcommunity.com/id/dannc) and [ps](https://psnprofiles.com/DanNecron).
 - 🍥 I am an [anime fan](https://myanimelist.net/profile/DanNC).
-- 🎧 I am listeninig [a lot of music](https://www.last.fm/ru/user/DanNecron).
-
-
-[![Dannecron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannecron&hide=contribs,prs,issues&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+- 🎧 I am listeninig [a lot of music](https://www.last.fm/ru/user/DanNecron).s
